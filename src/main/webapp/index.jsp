@@ -8,11 +8,11 @@
 </head>
 <body>
 	<form action="Add">
-		<label for="n1">Number 1 </label>
+		<label for="n1">Number 1Â </label>
 		<input type="number" id="n1" name="n1">
-		<label for="n2">Number 2 </label>
+		<label for="n2">Number 2Â </label>
 		<input type="number" id="n2" name="n2">
-		<input type="submit" value="add dis shit nigga.">
+		<input type="submit" value="add">
 	</form>
 </body>
 </html>
